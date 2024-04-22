@@ -1,15 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/x6ckGcN8)
-# 3500 PA05 Project Repo
 
-[PA Write Up](https://markefontenot.notion.site/PA-05-8263d28a81a7473d8372c6579abd6481)
+# Bullet Journal Organizational Tool
 
-<span style="margin-bottom: 2em; display: block;"></span>
-**IMPORTANT NOTE: There's a build issue on the tests on github where the font/color object is
-throwing a null pointer exception, so tests will pass locally but not on the build server. This submission
-was approved by Dr. Fontenot**
-<span style="margin-bottom: 5em; display: block;"></span>
-
-**Pitch** <br>
+## Pitch <br>
 Our Application is a digital version of a Bullet Journal for those who do not have the time to have and maintain a 
 physical journal. Similar to a Bullet Journal, it has the basic functions of noting down all of your Tasks and Events 
 for that week to help you keep track of your busy life. However, by digitalizing the journal, many more features have 
@@ -26,7 +18,7 @@ the font and colors of their Bullet Journal to fit their aesthetic needs</li>
 <li>Mind Changes: A way to change the details for a task or event</li>
 
 <span style="margin-bottom: 2em; display: block;"></span>
-**Images**
+## Images
 <br>
 Dark Theme, how it would look with tasks & events <br>
 <img src="DarkTheme.jpg" width="500" alt="Dark Theme">
@@ -44,8 +36,8 @@ Custom Theme <br>
 <img src="CustomTheme.jpg" width="500" alt="Custom Theme">
 
 <span style="margin-bottom: 2em; display: block;"></span>
-**Application of Solid Principals**<br>
-*Single Responsibility*<br>
+## SOLID Principles
+<br>*Single Responsibility*<br>
 Each of our class handles a separate task, called in by the main controller class BujoController. For example, each day 
 in a week is handled separately as their own object, Day. Within a Day object, we also have separate Task and Event 
 object which handles how they're created and how they interact within the program. For File reading and writing, they 
@@ -72,7 +64,7 @@ lower-level class as they are created with the same functionality and modified f
 different functionalities of features.<br>
 
 <span style="margin-bottom: 2em; display: block;"></span>
-**Future extensions**
+## Ideas for the Future
 Things which we could to add for future extensions
 <li>Quotes & Notes: Having this in would enhance the aesthetics of the Bullet Journal without too much modification
 to the original product</li>
