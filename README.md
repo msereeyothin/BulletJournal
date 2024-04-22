@@ -1,8 +1,8 @@
 
 # Bullet Journal Organizational Tool
 
-## Pitch <br>
-Our Application is a digital version of a Bullet Journal for those who do not have the time to have and maintain a 
+## About 
+<br> Our Application is a digital version of a Bullet Journal for those who do not have the time to have and maintain a 
 physical journal. Similar to a Bullet Journal, it has the basic functions of noting down all of your Tasks and Events 
 for that week to help you keep track of your busy life. However, by digitalizing the journal, many more features have 
 been implemented.
@@ -10,14 +10,16 @@ been implemented.
 A feature which is only possible for a digital journal is a set amount of task and events which you can set for yourself 
 and modify as felt necessary. Extra features which we have implemented for this journal are: 
 <br>
-<li>Themes & Customized Themes: The user can choose from our given themes or make their own theme which modifies
+<ul>
+  <li>Themes & Customized Themes: The user can choose from our given themes or make their own theme which modifies
 the font and colors of their Bullet Journal to fit their aesthetic needs</li>
 <li>Task Queue: A sidebar to view all the tasks they need to do for that week</li>
 <li>Mini Viewer: A way to view each individual task or event in more details</li>
 <li>Take-backs: A to delete a task or event if it is no longer applicable</li>
 <li>Mind Changes: A way to change the details for a task or event</li>
-
+</ul>
 <span style="margin-bottom: 2em; display: block;"></span>
+
 ## Images
 <br>
 Dark Theme, how it would look with tasks & events <br>
@@ -66,10 +68,13 @@ different functionalities of features.<br>
 <span style="margin-bottom: 2em; display: block;"></span>
 ## Ideas for the Future
 Things which we could to add for future extensions
+<ul>
 <li>Quotes & Notes: Having this in would enhance the aesthetics of the Bullet Journal without too much modification
 to the original product</li>
 <li>Sort by Name & Location: This would be useful for the user as we already have a sidebar but sometimes looking at 
 everything at once when it's unorganized can be overwhelming</li>
 <li>Task Search: With the focus on clearing out tasks in mind, adding this feature can also help the user as they can
 look for specific things they need to do in a long list</li>
-<span style="margin-bottom: 5em; display: block;"></span>
+<span style="margin-bottom: 5em; display: block;"></span>  
+</ul>
+
